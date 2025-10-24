@@ -1448,38 +1448,7 @@ button:hover {
 }
 
 /* Dark Mode Support */
-@media (prefers-color-scheme: dark) {
-  .news-events-section {
-    background: #1a1a1a;
-  }
-  
-  .section-title {
-    color: #fff;
-  }
-  
-  .highlight-slide {
-    background: #2d2d2d;
-  }
-  
-  .highlight-content h3 {
-    color: #fff;
-  }
-  
-  .highlight-content p {
-    color: #ccc;
-  }
-  
-  .cta-secondary {
-    background: #2980b9;
-    border-color: #2980b9;
-  }
-  
-  .cta-secondary:hover {
-    color: #2980b9;
-    background: transparent;
-  }
-}
-/* --- 7. Admissions Page Styles --- */
+. Admissions Page Styles --- */
 
 .admissions-overview p {
     /* Special styling for the main introductory paragraph */
